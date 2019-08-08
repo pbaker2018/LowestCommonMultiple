@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Lowest Common Multiple</string>
+    <string name="type_1st_number">type 1st number</string>
+    <string name="type_2nd_number">type 2nd number</string>
+    <string name="please_enter_your_two_numbers_below">Please enter your two numbers below</string>
+    <string name="find_the_lcm">Find the LCM</string>
+    <string name="lowest_common_multiple_of_two_numbers">Lowest Common Multiple of two numbers</string>
+    <string name="clear">clear</string>
 </resources>
